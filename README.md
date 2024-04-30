@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-# Tech skills
 ![Wsthus07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wsthus07&show_icons=true&theme=radical)
+### Tech Stack
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
