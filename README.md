@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello There, Welcome to My profile
 
 <!--
 **WsThus07/Wsthus07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Wsthus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wsthus07&show_icons=true&bg_color=linear-gradient(90deg, rgba(6,2,68,1) 0%, rgba(24,24,170,1) 35%, rgba(233,11,133,1) 100%))
+![Wsthus07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wsthus07&show_icons=true&theme=radical)
