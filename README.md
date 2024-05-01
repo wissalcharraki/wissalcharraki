@@ -21,8 +21,7 @@
 ### Badges 
 [<img src="https://github.com/WsThus07/Wsthus07/blob/main/cloudbadge.png" width="100">](https://www.cloudskillsboost.google/public_profiles/6a4b1e33-b428-4fcf-87e8-cadbaf8136bf/badges/8797262)
 [<img src="https://github.com/WsThus07/Wsthus07/blob/main/llmsbadge.png" width="100">](https://www.cloudskillsboost.google/public_profiles/6a4b1e33-b428-4fcf-87e8-cadbaf8136bf/badges/8795618)
-[<img src="https://github.com/WsThus07/Wsthus07/blob/main/badge1.png" width="100">]()
-[<img src="https://github.com/WsThus07/Wsthus07/blob/main/vertexaibadge.png" width="100">](https://www.cloudskillsboost.google/public_profiles/6a4b1e33-b428-4fcf-87e8-cadbaf8136bf/badges/8814332)
 [<img src="https://github.com/WsThus07/Wsthus07/blob/main/badgeGenAI.png" width="100">](https://www.cloudskillsboost.google/public_profiles/6a4b1e33-b428-4fcf-87e8-cadbaf8136bf/badges/8793172)
+[<img src="https://github.com/WsThus07/Wsthus07/blob/main/vertexaibadge.png" width="100">](https://www.cloudskillsboost.google/public_profiles/6a4b1e33-b428-4fcf-87e8-cadbaf8136bf/badges/8814332)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
