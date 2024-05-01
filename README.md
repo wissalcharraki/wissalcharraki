@@ -19,6 +19,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Wsthus07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### Badges 
-[![Intro to Generative Ai](https://github.com/WsThus07/Wsthus07/blob/main/badgeGenAI.png)](https://www.cloudskillsboost.google/public_profiles/6a4b1e33-b428-4fcf-87e8-cadbaf8136bf/badges/8793172)
+[<img src="https://github.com/WsThus07/Wsthus07/blob/main/badgeGenAI.png" width="100">](https://www.cloudskillsboost.google/public_profiles/6a4b1e33-b428-4fcf-87e8-cadbaf8136bf/badges/8793172)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
