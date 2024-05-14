@@ -1,6 +1,6 @@
 ### 👋 Hello There, Welcome to My profile
 
-<br>- 🔭 I’m currently software engineering student<br>- 🌱 I’m currently learning software engineering and AI<br>- 📫 How to reach me: charrakiw@gmail.com <br>- 😄 Pronouns: Wisso<br>- ⚡ Fun fact: I hate errors
+<br>- 🔭 I’m currently software engineering student<br>- 🌱 I’m currently learning software engineering and AI<br>- 📫 How to reach me: charrakiw@gmail.com <br>- 😄 Pronouns: Wisso<br>- 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
