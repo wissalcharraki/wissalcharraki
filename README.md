@@ -1,6 +1,6 @@
 ### 👋 Hello There, Welcome to My profile
 
-<br>- 🔭 I’m currently software engineer<br>- 🌱<br>- 📫 How to reach me: charrakiw@gmail.com <br>- 😄 Pronouns: Wisso<br>
+<br>- 🔭 I’m currently software engineer and Data Enthusiast <br>- 🌱<br>- 📫 How to reach me: charrakiw@gmail.com <br>- 😄 Pronouns: Wisso<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
